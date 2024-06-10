@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andrew-Snyder-Cognizant
-- 👀 I’m interested in DevOps & SRE
+- 👀 I’m interested in GenAI, DevOps & SRE
 - 🌱 I’m currently learning rustc go nim qiskit
 - 💞️ I’m looking to collaborate on your needs.
 - 📫 How to reach me: Andrew.Snyder2@Cognizant.com
